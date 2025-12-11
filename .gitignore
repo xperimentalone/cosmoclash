@@ -1,0 +1,10 @@
+# Ignore cache and temp files
+web-cache/
+*.log
+*.tmp
+
+# Ignore environment files
+.env/
+
+# Ignore wording files
+*.docx
